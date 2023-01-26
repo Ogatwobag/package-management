@@ -2,7 +2,7 @@
 
 #ttttttttttttt
 ##TTT
-
+##tttt
 
 
 # Install and start nexus as a service 
