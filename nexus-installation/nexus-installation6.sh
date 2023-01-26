@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #ttttttttttttt
-
+###yyyy
 
 
 # Install and start nexus as a service 
