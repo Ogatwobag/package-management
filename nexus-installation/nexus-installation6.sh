@@ -1,4 +1,9 @@
 #!/bin/bash
+
+#ttttttttttttt
+
+
+
 # Install and start nexus as a service 
 # This script works on RHEL 7 & 8 OS 
 # Your server must have atleast 4GB of RAM
